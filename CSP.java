@@ -4,9 +4,8 @@ import java.util.List;
 import java.util.ArrayList;
 
 /*
- * Sahibdeep Singh
- * 300156800
- * 
+ * COMP-380
+ * Sahibdeep Singh  
  */
 
 /*
